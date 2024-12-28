@@ -1,1 +1,1 @@
-readme
+# django-blog
